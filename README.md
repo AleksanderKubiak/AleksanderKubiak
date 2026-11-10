@@ -35,4 +35,5 @@ In my spare time I take apart the BMW iDrive 7 (MGU) head unit.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/aleksander-kubiak-6816202b8/) · [cctvplanner.io](https://cctvplanner.io) · [aleksander.kubiak@defensar.pl](mailto:aleksander.kubiak@defensar.pl)
+- **Me:** [aleksander.kubiak@defensar.pl](mailto:aleksander.kubiak@defensar.pl) · [LinkedIn](https://www.linkedin.com/in/aleksander-kubiak-6816202b8/)
+- **CCTVplanner.io:** [cctvplanner.io](https://cctvplanner.io) · [contact@cctvplanner.io](mailto:contact@cctvplanner.io)
